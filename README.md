@@ -7,7 +7,7 @@
 
 > 👨‍🏫 Languages: C++, Python
 
-> 🛠️ Tools: Github, Visual Studio Code, Unity, SparkAr, CATIA, MATLAB
+> 🛠️ Tools: Github, Visual Studio Code, Unity, SparkAr.
 
 > Connect With Me🤜🤛:
   https://www.linkedin.com/in/alok-sagar-b7a0891bb/
