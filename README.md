@@ -5,11 +5,11 @@
 - 💞️ I’m looking to collaborate on the topics i have mentioned above.
 - 📫 You can reach me out there on my mail aloksagar5445@gmail.com.
 
-> 👨‍🏫 Languages: C++, Python
+- 👨‍🏫 Languages: C++, Python
 
-> 🛠️ Tools: Github, Visual Studio Code, Unity, SparkAr.
+- 🛠️ Tools: Github, Visual Studio Code, Unity, SparkAr.
 
-> Connect With Me🤜🤛:
+- Connect With Me🤜🤛:
   https://www.linkedin.com/in/alok-sagar-b7a0891bb/
 
 
