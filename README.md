@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning **Data Structure and Algorithms and html.**
+- 🌱 I’m currently learning **Data Structure and Algorithms and Frontend Web Development**
 
 - 💬 Ask me about **Augmented Reality, IoT.**
 
