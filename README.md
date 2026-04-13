@@ -15,7 +15,7 @@ I'm a **Software Engineer at Accenture**, specializing in building enterprise-le
 - 🌱 Deep-diving into **Cloud Architecture**, **Distributed Systems**, and **DevOps**
 - 🏆 Former **Beta Microsoft Learn Student Ambassador** — mentored 500+ students in cloud & modern dev
 - 🤖 Ex-Head of **Robocell**, NIT Durgapur — led 30+ members in robotics competitions & workshops
-- 📫 Reach me at **aloksagar5445@gmail.com** | 📱 +91-8825317391
+- 📫 Reach me at **aloksagar5445@gmail.com**
 
 ---
 
