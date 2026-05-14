@@ -122,30 +122,33 @@ B.Tech in Mechanical Engineering *(Aug 2020 – May 2024)*
 
 ## 🏆 Leadership & Achievements
 
-- **Senior Fest Coordinator**, Aarohan — NIT Durgapur Annual Fest *(Mar 2023 – May 2024)*
-   - Led logistics and event planning for an annual fest with **5,000+ attendees**, managing **50+ events**
-
-- **Beta Microsoft Learn Student Ambassador** — Microsoft *(Nov 2022 – Jul 2024)*
-> Remote
-
-  - Led technical workshops and hackathons for **500+ students** on cloud computing, Azure, and modern dev practices
-  - Mentored **50+ students** in web development, machine learning, and Microsoft technologies
-  - Organized **10+ technical events** promoting Microsoft technologies at NIT Durgapur
-  - Progressed from Alpha to **Beta tier** through consistent community engagement
-
----
-
-- **Head, Robocell** — Centre for Cognitive Activities, NIT Durgapur *(May 2023 – May 2024)*
+# **Head, Robocell** — Centre for Cognitive Activities, NIT Durgapur *(May 2023 – May 2024)*
 > Durgapur, West Bengal, India
 
-  - Led a team of **30+ members** in robotics projects, competitions, and workshops
-  - Organized national-level robotics competitions attracting **200+ participants** from across India
-  - Managed project timelines, resource allocation, and mentored juniors in embedded systems
-  - Secured sponsorships worth **INR 2,00,000+** for club activities and technical events
+   - Led a team of **30+ members** in robotics projects, competitions, and workshops
+   - Organized national-level robotics competitions attracting **200+ participants** from across India
+   - Managed project timelines, resource allocation, and mentored juniors in embedded systems
+   - Secured sponsorships worth **INR 2,00,000+** for club activities and technical events
+
+---
+
+# **Beta Microsoft Learn Student Ambassador** — Microsoft *(Nov 2022 – Jul 2024)*
+> Remote
+
+   - Led technical workshops and hackathons for **500+ students** on cloud computing, Azure, and modern dev practices
+   - Mentored **50+ students** in web development, machine learning, and Microsoft technologies
+   - Organized **10+ technical events** promoting Microsoft technologies at NIT Durgapur
+   - Progressed from Alpha to **Beta tier** through consistent community engagement
 
 ---
 
 
+# **Senior Fest Coordinator**, Aarohan — NIT Durgapur Annual Fest *(Mar 2023 – May 2024)*
+> Durgapur, West Bengal, India
+
+   - Led logistics and event planning for an annual fest with **5,000+ attendees**, managing **50+ events**
+
 ---
+
 
 *"Building scalable systems, one microservice at a time."*
