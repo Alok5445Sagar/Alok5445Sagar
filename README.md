@@ -122,7 +122,7 @@ B.Tech in Mechanical Engineering *(Aug 2020 – May 2024)*
 
 ## 🏆 Leadership & Achievements
 
-# Head, Robocell — Centre for Cognitive Activities, NIT Durgapur (May 2023 – May 2024)
+### Head, Robocell — Centre for Cognitive Activities, NIT Durgapur (May 2023 – May 2024)
 > Durgapur, West Bengal, India
 
    - Led a team of **30+ members** in robotics projects, competitions, and workshops
@@ -132,7 +132,7 @@ B.Tech in Mechanical Engineering *(Aug 2020 – May 2024)*
 
 ---
 
-# Beta Microsoft Learn Student Ambassador** — Microsoft (Nov 2022 – Jul 2024)
+### Beta Microsoft Learn Student Ambassador** — Microsoft (Nov 2022 – Jul 2024)
 > Remote
 
    - Led technical workshops and hackathons for **500+ students** on cloud computing, Azure, and modern dev practices
@@ -143,7 +143,7 @@ B.Tech in Mechanical Engineering *(Aug 2020 – May 2024)*
 ---
 
 
-# Senior Fest Coordinator, Aarohan — NIT Durgapur Annual Fest (Mar 2023 – May 2024)
+### Senior Fest Coordinator, Aarohan — NIT Durgapur Annual Fest (Mar 2023 – May 2024)
 > Durgapur, West Bengal, India
 
    - Led logistics and event planning for an annual fest with **5,000+ attendees**, managing **50+ events**
