@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="mailto:aloksagar5445@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[https://linkedin.com/in/aloksagar](https://www.linkedin.com/in/alok-sagar-b7a0891bb/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[https://leetcode.com/aloksagar](https://leetcode.com/u/aloksagar5445/)"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/alok-sagar-b7a0891bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/aloksagar5445/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
@@ -55,7 +55,7 @@ I'm a **Advanced Application Engineer** at **Accenture, Bengaluru**, building cl
 
 ## 🌟 Featured Projects
 
-### 🥽 Augmented Reality Applications
+### 🥽 [Augmented Reality Applications](https://github.com/aloksagar)
 > Unity 3D · Vuforia · C# · Android SDK · AR Foundation
 
 A portfolio of **8 AR applications** featuring marker-based tracking, markerless ground-plane detection, mid-air object simulation, and interactive virtual button systems — deployed as Android APKs and used by 100+ students.
@@ -95,3 +95,20 @@ Led 30+ members, organized national-level robotics competitions with 500+ partic
 Delivered 10+ workshops and hackathons on Azure and ML to 200+ students; mentored 100+ students in web development and Microsoft technologies.
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aloksagar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloksagar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aloksagar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Building resilient systems, one microservice at a time."</i>
+</p>
